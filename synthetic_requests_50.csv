@@ -1,0 +1,51 @@
+request_id,date,request_type,info_complete,duplicate_flag,unauthorized_flag,failed_step_flag,handoffs,handling_min,rework_min,turnaround_hrs,outcome
+S-001,2026-10-05,Bonafide - bank loan,No,No,No,No,6,14,15,43,Needs information
+S-002,2026-10-05,Bonafide - general,Yes,No,No,No,4,12,0,17,Completed
+S-003,2026-10-05,Bonafide - internship,Yes,No,No,No,4,12,0,9,Completed
+S-004,2026-10-05,Bonafide - general,Yes,No,No,No,4,12,0,14,Completed
+S-005,2026-10-05,Bonafide - general,Yes,No,No,No,4,11,0,14,Completed
+S-006,2026-10-06,Bonafide - general,Yes,No,No,No,4,12,0,16,Completed
+S-007,2026-10-06,Bonafide - passport,Yes,No,No,No,4,9,0,17,Completed
+S-008,2026-10-06,Bonafide - general,No,No,No,No,6,13,8,52,Needs information
+S-009,2026-10-06,Bonafide - general,Yes,No,No,No,4,9,0,19,Completed
+S-010,2026-10-06,Bonafide - passport,Yes,No,No,No,4,12,0,15,Completed
+S-011,2026-10-07,Bonafide - bank loan,Yes,No,No,No,4,12,0,11,Completed
+S-012,2026-10-07,Bonafide - internship,Yes,No,No,No,4,12,0,18,Completed
+S-013,2026-10-07,Bonafide - internship,Yes,No,No,No,4,11,0,16,Completed
+S-014,2026-10-07,Bonafide - general,Yes,Yes,No,No,5,12,5,22,Duplicate (linked)
+S-015,2026-10-07,Bonafide - internship,Yes,No,No,No,4,12,0,20,Completed
+S-016,2026-10-08,Bonafide - scholarship,Yes,No,No,No,4,12,0,11,Completed
+S-017,2026-10-08,Bonafide - bank loan,Yes,No,Yes,No,3,8,0,6,Rejected - not authorised
+S-018,2026-10-08,Bonafide - general,Yes,No,No,No,4,10,0,18,Completed
+S-019,2026-10-08,Bonafide - general,Yes,No,No,No,4,12,0,20,Completed
+S-020,2026-10-08,Bonafide - passport,Yes,No,No,No,4,12,0,13,Completed
+S-021,2026-10-09,Bonafide - internship,Yes,No,No,No,4,11,0,19,Completed
+S-022,2026-10-09,Bonafide - internship,Yes,Yes,No,No,5,11,6,21,Duplicate (linked)
+S-023,2026-10-09,Bonafide - scholarship,Yes,No,No,No,4,9,0,12,Completed
+S-024,2026-10-09,Bonafide - bank loan,Yes,No,No,No,4,12,0,20,Completed
+S-025,2026-10-09,Bonafide - general,Yes,No,No,No,4,12,0,19,Completed
+S-026,2026-10-12,Bonafide - passport,Yes,No,No,No,4,11,0,15,Completed
+S-027,2026-10-12,Bonafide - internship,Yes,No,No,No,4,12,0,19,Completed
+S-028,2026-10-12,Bonafide - internship,Yes,Yes,No,No,5,10,6,18,Duplicate (linked)
+S-029,2026-10-12,Bonafide - passport,Yes,No,No,No,4,11,0,9,Completed
+S-030,2026-10-12,Bonafide - internship,Yes,Yes,No,No,5,12,5,16,Duplicate (linked)
+S-031,2026-10-13,Bonafide - bank loan,Yes,No,No,No,4,9,0,9,Completed
+S-032,2026-10-13,Bonafide - bank loan,Yes,No,No,Yes,7,27,18,57,Manual review
+S-033,2026-10-13,Bonafide - bank loan,Yes,No,No,No,4,10,0,11,Completed
+S-034,2026-10-13,Bonafide - general,Yes,No,No,No,4,9,0,20,Completed
+S-035,2026-10-13,Bonafide - scholarship,Yes,No,No,No,4,11,0,18,Completed
+S-036,2026-10-14,Bonafide - scholarship,Yes,No,No,No,4,10,0,8,Completed
+S-037,2026-10-14,Bonafide - passport,Yes,No,No,No,4,12,0,19,Completed
+S-038,2026-10-14,Bonafide - general,No,No,No,No,6,16,11,45,Needs information
+S-039,2026-10-14,Bonafide - internship,No,No,No,No,6,13,12,32,Needs information
+S-040,2026-10-14,Bonafide - general,Yes,No,No,No,4,10,0,10,Completed
+S-041,2026-10-15,Bonafide - internship,Yes,No,No,No,4,11,0,16,Completed
+S-042,2026-10-15,Bonafide - passport,No,No,No,No,6,15,10,46,Needs information
+S-043,2026-10-15,Bonafide - internship,No,No,No,No,6,15,8,33,Needs information
+S-044,2026-10-15,Bonafide - scholarship,Yes,No,No,No,4,9,0,8,Completed
+S-045,2026-10-15,Bonafide - bank loan,Yes,No,No,No,4,11,0,20,Completed
+S-046,2026-10-16,Bonafide - scholarship,No,No,No,No,6,12,15,40,Needs information
+S-047,2026-10-16,Bonafide - bank loan,Yes,No,Yes,No,3,9,0,8,Rejected - not authorised
+S-048,2026-10-16,Bonafide - general,Yes,No,No,No,4,12,0,15,Completed
+S-049,2026-10-16,Bonafide - general,Yes,No,No,No,4,10,0,10,Completed
+S-050,2026-10-16,Bonafide - general,Yes,No,No,No,4,10,0,14,Completed
