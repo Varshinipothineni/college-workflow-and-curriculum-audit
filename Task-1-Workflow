@@ -1,0 +1,9 @@
+# Task 1 – Workflow Analysis
+
+This folder contains the workflow analysis report, supporting calculations, test results, and dataset.
+
+ Files
+- `Workflow_Analysis_Report.docx` — Workflow analysis report.
+- `evidence/CALCULATIONS.md` — Supporting calculations.
+- `evidence/TEST_RESULTS.md` — Test results.
+- `evidence/request_dataset.csv` — Dataset used for the analysis.
